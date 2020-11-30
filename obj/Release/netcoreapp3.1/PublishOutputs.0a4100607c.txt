@@ -1,0 +1,7 @@
+C:\Users\RAVI KUMAR\Desktop\Stimulation Project\DockerDemo\SampleDockerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\SampleDockerDemo.exe
+C:\Users\RAVI KUMAR\Desktop\Stimulation Project\DockerDemo\SampleDockerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\RAVI KUMAR\Desktop\Stimulation Project\DockerDemo\SampleDockerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\RAVI KUMAR\Desktop\Stimulation Project\DockerDemo\SampleDockerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\SampleDockerDemo.dll
+C:\Users\RAVI KUMAR\Desktop\Stimulation Project\DockerDemo\SampleDockerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\SampleDockerDemo.deps.json
+C:\Users\RAVI KUMAR\Desktop\Stimulation Project\DockerDemo\SampleDockerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\SampleDockerDemo.runtimeconfig.json
+C:\Users\RAVI KUMAR\Desktop\Stimulation Project\DockerDemo\SampleDockerDemo\obj\Release\netcoreapp3.1\PubTmp\Out\SampleDockerDemo.pdb
